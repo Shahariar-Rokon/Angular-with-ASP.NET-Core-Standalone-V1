@@ -1,0 +1,86 @@
+<div class="container">
+    <div class="row">        
+        <div class="col-12 mt-4 mb-2">
+     <button class="btn btn-lg btn-outline-success" (click)="isNewDiv=!isNewDiv"> Add New</button>
+           </div>
+        <div class="col-12">
+            <div class="card">
+                <div class="card-header bg-success text-white">
+                   <h2> New Candidate</h2>
+                </div>
+                <form [formGroup]="candidateForm" (ngSubmit)="InsertCandidate()">
+                    <div class="row">
+                      <div class="col-6">
+                        <h4>Candidate Details</h4>
+                        <div class="form-group">
+                          <label class="control-label" for="candidateName">Candidate Name</label>
+                          <div class="col-md-10">
+                            <input type="text" formControlName="candidateName" class="form-control">
+                          </div>
+                        </div>
+                        <div class="form-group">
+                          <label class="control-label" for="">Date Of Birth</label>
+                          <div class="col-md-10">
+                            <input type="date" formControlName="dateOfBirth" class="form-control">
+                          </div>
+                        </div>
+                        <div class="form-group">
+                          <label class="col-md-2 control-label" for="">Mobile No</label>
+                          <div class="col-md-10">
+                            <input type="text" formControlName="mobileNo" class="form-control">
+                          </div>
+                        </div>
+                        <div class="form-group">
+                          <label class="col-md-2 control-label" for="">Picture</label>
+                          <div class="col-md-10">
+                            <img [src]="url" title="Profile Picture" height="80px" width="80px" /><br>
+                            <input type="file" id="img"  accept="image/*" (change)="onFileSelected($event)"/>
+                          </div>
+                        </div>
+                        <div class="form-group">
+                          <label class="control-label" for="">Fresher</label>
+                          <div class="col-md-10">
+                            <div class="checkbox">
+                              <input type="checkbox" formControlName="isFresher">
+                            </div>
+                          </div>
+                        </div>
+                        <div class="form-group">
+                          <div class="col-md-offset-2 col-md-10">
+                            <button type="submit" class="btn btn-outline-success btn-sm">Add Candidate</button>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-6">
+                        <h4>Select Skills</h4>
+                        <div class="d-flex justify-content-end mb-4">
+                          <button type="button" (click)="addSkills()" class="btn btn-outline-info">+</button>
+                        </div>
+                        <ng-container formArrayName="skillsList">
+                          <ng-container *ngFor="let p of SkillListArray.controls; let i = index">
+                            <div [formGroupName]="i">
+                              <div class="form-group row mb-2">
+                                <div class="col-10">
+                                  <select formControlName="skillId" class="form-control">
+                                    <option disabled value="null">---Select---</option>
+                                    <option *ngFor="let item of skillList" value="{{item.skillId}}">{{item.skillName}}</option>
+                                  </select>
+                                </div>
+                                <div class="col-2">
+                                  <button (click)="removeSkillList(i)" class="btn btn-outline-danger btn-sm">X</button>
+                                </div>
+                              </div>
+                            </div>
+                          </ng-container>
+                        </ng-container>
+                      </div>
+                    </div>
+                  </form>
+            </div>   
+    
+            <div class="d-flex justify-content-end me-2">
+                <button [routerLink]="['/details']" style="margin-left:100px" class="btn btn-outline-success btn-sm">Back To List</button>
+              </div>
+</div>
+
+

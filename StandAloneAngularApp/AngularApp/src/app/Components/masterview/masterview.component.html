@@ -1,0 +1,38 @@
+<div class="row no-gutters border p-2">
+    <div class="col">
+      <div class="d-flex justify-content-between">
+        <h2 class="text-center">Candidate Details</h2>
+        <div class="d-flex justify-content-end mb-4">
+          <button type="button" [routerLink]="['/details/add']" class="btn btn-outline-primary btn-sm me-2">Add </button>
+        </div>
+      </div>
+      <div *ngFor="let item of candidateList" class="card mb-4">
+        <div class="card-header row no-gutters jumbotron p-2 mb-1">
+          <div class="col-md-10">
+            <span style="margin-right: 10px;">
+              <img style="width: 40px;" [src]="imageUrl+item.picture" class="img">
+            </span>
+            <b>Candidate Name :</b> {{item.candidateName}}
+          </div>
+          <div class="col-md-2 my-auto d-flex justify-content-end">
+            <a class="btn btn-outline-dark btn-sm me-2" [routerLink]="['/details','edit',item.candidateId]">Edit</a>
+            <button (click)="OnDelete(item)" class="btn btn-outline-danger btn-sm">Delete</button>
+          </div>
+        </div>
+        <div class="card-body">
+          <table class="table table-bordered table-striped table-sm">
+            <thead>
+              <tr>
+                <th>Skill Name</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr *ngFor="let skillList of item.skillList">
+                <td># &nbsp;{{getSkillName(skillList.skillId)}}</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>

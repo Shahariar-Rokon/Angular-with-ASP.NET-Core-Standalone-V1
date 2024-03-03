@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\1274378\\Module-Angular\\EvidenceFinal\\CurrentZip\\ResumeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96D8056D-1649-480D-B670-E6CCDB2CC538}|ResumeManagement\\ResumeManagement.csproj|e:\\1274378\\module-angular\\evidencefinal\\currentzip\\resumemanagement\\resumemanagement\\controllers\\candidatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D8056D-1649-480D-B670-E6CCDB2CC538}|ResumeManagement\\ResumeManagement.csproj|solutionrelative:resumemanagement\\controllers\\candidatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D8056D-1649-480D-B670-E6CCDB2CC538}|ResumeManagement\\ResumeManagement.csproj|e:\\1274378\\module-angular\\evidencefinal\\currentzip\\resumemanagement\\resumemanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{96D8056D-1649-480D-B670-E6CCDB2CC538}|ResumeManagement\\ResumeManagement.csproj|solutionrelative:resumemanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D8056D-1649-480D-B670-E6CCDB2CC538}|ResumeManagement\\ResumeManagement.csproj|e:\\1274378\\module-angular\\evidencefinal\\currentzip\\resumemanagement\\resumemanagement\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D8056D-1649-480D-B670-E6CCDB2CC538}|ResumeManagement\\ResumeManagement.csproj|solutionrelative:resumemanagement\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D8056D-1649-480D-B670-E6CCDB2CC538}|ResumeManagement\\ResumeManagement.csproj|e:\\1274378\\module-angular\\evidencefinal\\currentzip\\resumemanagement\\resumemanagement\\migrations\\20240207035721_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D8056D-1649-480D-B670-E6CCDB2CC538}|ResumeManagement\\ResumeManagement.csproj|solutionrelative:resumemanagement\\migrations\\20240207035721_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D8056D-1649-480D-B670-E6CCDB2CC538}|ResumeManagement\\ResumeManagement.csproj|e:\\1274378\\module-angular\\evidencefinal\\currentzip\\resumemanagement\\resumemanagement\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D8056D-1649-480D-B670-E6CCDB2CC538}|ResumeManagement\\ResumeManagement.csproj|solutionrelative:resumemanagement\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D8056D-1649-480D-B670-E6CCDB2CC538}|ResumeManagement\\ResumeManagement.csproj|e:\\1274378\\module-angular\\evidencefinal\\currentzip\\resumemanagement\\resumemanagement\\dtos\\candidatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D8056D-1649-480D-B670-E6CCDB2CC538}|ResumeManagement\\ResumeManagement.csproj|solutionrelative:resumemanagement\\dtos\\candidatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D8056D-1649-480D-B670-E6CCDB2CC538}|ResumeManagement\\ResumeManagement.csproj|e:\\1274378\\module-angular\\evidencefinal\\currentzip\\resumemanagement\\resumemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{96D8056D-1649-480D-B670-E6CCDB2CC538}|ResumeManagement\\ResumeManagement.csproj|solutionrelative:resumemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D8056D-1649-480D-B670-E6CCDB2CC538}|ResumeManagement\\ResumeManagement.csproj|e:\\1274378\\module-angular\\evidencefinal\\currentzip\\resumemanagement\\resumemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D8056D-1649-480D-B670-E6CCDB2CC538}|ResumeManagement\\ResumeManagement.csproj|solutionrelative:resumemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D8056D-1649-480D-B670-E6CCDB2CC538}|ResumeManagement\\ResumeManagement.csproj|e:\\1274378\\module-angular\\evidencefinal\\currentzip\\resumemanagement\\resumemanagement\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D8056D-1649-480D-B670-E6CCDB2CC538}|ResumeManagement\\ResumeManagement.csproj|solutionrelative:resumemanagement\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D8056D-1649-480D-B670-E6CCDB2CC538}|ResumeManagement\\ResumeManagement.csproj|e:\\1274378\\module-angular\\evidencefinal\\currentzip\\resumemanagement\\resumemanagement\\models\\candidateskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D8056D-1649-480D-B670-E6CCDB2CC538}|ResumeManagement\\ResumeManagement.csproj|solutionrelative:resumemanagement\\models\\candidateskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D8056D-1649-480D-B670-E6CCDB2CC538}|ResumeManagement\\ResumeManagement.csproj|e:\\1274378\\module-angular\\evidencefinal\\currentzip\\resumemanagement\\resumemanagement\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D8056D-1649-480D-B670-E6CCDB2CC538}|ResumeManagement\\ResumeManagement.csproj|solutionrelative:resumemanagement\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D8056D-1649-480D-B670-E6CCDB2CC538}|ResumeManagement\\ResumeManagement.csproj|e:\\1274378\\module-angular\\evidencefinal\\currentzip\\resumemanagement\\resumemanagement\\resumemanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{96D8056D-1649-480D-B670-E6CCDB2CC538}|ResumeManagement\\ResumeManagement.csproj|solutionrelative:resumemanagement\\resumemanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\1274378\\Module-Angular\\EvidenceFinal\\CurrentZip\\ResumeManagement\\ResumeManagement\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ResumeManagement\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\1274378\\Module-Angular\\EvidenceFinal\\CurrentZip\\ResumeManagement\\ResumeManagement\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ResumeManagement\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-03T06:35:45.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\1274378\\Module-Angular\\EvidenceFinal\\CurrentZip\\ResumeManagement\\ResumeManagement\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ResumeManagement\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "E:\\1274378\\Module-Angular\\EvidenceFinal\\CurrentZip\\ResumeManagement\\ResumeManagement\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ResumeManagement\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T03:10:43.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CandidateDTO.cs",
+              "DocumentMoniker": "E:\\1274378\\Module-Angular\\EvidenceFinal\\CurrentZip\\ResumeManagement\\ResumeManagement\\DTOs\\CandidateDTO.cs",
+              "RelativeDocumentMoniker": "ResumeManagement\\DTOs\\CandidateDTO.cs",
+              "ToolTip": "E:\\1274378\\Module-Angular\\EvidenceFinal\\CurrentZip\\ResumeManagement\\ResumeManagement\\DTOs\\CandidateDTO.cs",
+              "RelativeToolTip": "ResumeManagement\\DTOs\\CandidateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAgwBQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-10T05:22:48.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CandidatesController.cs",
+              "DocumentMoniker": "E:\\1274378\\Module-Angular\\EvidenceFinal\\CurrentZip\\ResumeManagement\\ResumeManagement\\Controllers\\CandidatesController.cs",
+              "RelativeDocumentMoniker": "ResumeManagement\\Controllers\\CandidatesController.cs",
+              "ToolTip": "E:\\1274378\\Module-Angular\\EvidenceFinal\\CurrentZip\\ResumeManagement\\ResumeManagement\\Controllers\\CandidatesController.cs",
+              "RelativeToolTip": "ResumeManagement\\Controllers\\CandidatesController.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAowJUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-10T05:22:49.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "E:\\1274378\\Module-Angular\\EvidenceFinal\\CurrentZip\\ResumeManagement\\ResumeManagement\\Models\\Candidate.cs",
+              "RelativeDocumentMoniker": "ResumeManagement\\Models\\Candidate.cs",
+              "ToolTip": "E:\\1274378\\Module-Angular\\EvidenceFinal\\CurrentZip\\ResumeManagement\\ResumeManagement\\Models\\Candidate.cs",
+              "RelativeToolTip": "ResumeManagement\\Models\\Candidate.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-10T05:22:48.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240207035721_init.cs",
+              "DocumentMoniker": "E:\\1274378\\Module-Angular\\EvidenceFinal\\CurrentZip\\ResumeManagement\\ResumeManagement\\Migrations\\20240207035721_init.cs",
+              "RelativeDocumentMoniker": "ResumeManagement\\Migrations\\20240207035721_init.cs",
+              "ToolTip": "E:\\1274378\\Module-Angular\\EvidenceFinal\\CurrentZip\\ResumeManagement\\ResumeManagement\\Migrations\\20240207035721_init.cs",
+              "RelativeToolTip": "ResumeManagement\\Migrations\\20240207035721_init.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-10T05:22:49.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\1274378\\Module-Angular\\EvidenceFinal\\CurrentZip\\ResumeManagement\\ResumeManagement\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ResumeManagement\\Models\\AppDbContext.cs",
+              "ToolTip": "E:\\1274378\\Module-Angular\\EvidenceFinal\\CurrentZip\\ResumeManagement\\ResumeManagement\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "ResumeManagement\\Models\\AppDbContext.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAswA4AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-10T05:22:49.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\1274378\\Module-Angular\\EvidenceFinal\\CurrentZip\\ResumeManagement\\ResumeManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "ResumeManagement\\appsettings.json",
+              "ToolTip": "E:\\1274378\\Module-Angular\\EvidenceFinal\\CurrentZip\\ResumeManagement\\ResumeManagement\\appsettings.json",
+              "RelativeToolTip": "ResumeManagement\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-10T05:22:48.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\1274378\\Module-Angular\\EvidenceFinal\\CurrentZip\\ResumeManagement\\ResumeManagement\\Program.cs",
+              "RelativeDocumentMoniker": "ResumeManagement\\Program.cs",
+              "ToolTip": "E:\\1274378\\Module-Angular\\EvidenceFinal\\CurrentZip\\ResumeManagement\\ResumeManagement\\Program.cs",
+              "RelativeToolTip": "ResumeManagement\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-10T05:22:49.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResumeManagement.csproj",
+              "DocumentMoniker": "E:\\1274378\\Module-Angular\\EvidenceFinal\\CurrentZip\\ResumeManagement\\ResumeManagement\\ResumeManagement.csproj",
+              "RelativeDocumentMoniker": "ResumeManagement\\ResumeManagement.csproj",
+              "ToolTip": "E:\\1274378\\Module-Angular\\EvidenceFinal\\CurrentZip\\ResumeManagement\\ResumeManagement\\ResumeManagement.csproj",
+              "RelativeToolTip": "ResumeManagement\\ResumeManagement.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-10T05:22:48.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "E:\\1274378\\Module-Angular\\EvidenceFinal\\CurrentZip\\ResumeManagement\\ResumeManagement\\Models\\Skill.cs",
+              "RelativeDocumentMoniker": "ResumeManagement\\Models\\Skill.cs",
+              "ToolTip": "E:\\1274378\\Module-Angular\\EvidenceFinal\\CurrentZip\\ResumeManagement\\ResumeManagement\\Models\\Skill.cs",
+              "RelativeToolTip": "ResumeManagement\\Models\\Skill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-10T05:22:48.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CandidateSkill.cs",
+              "DocumentMoniker": "E:\\1274378\\Module-Angular\\EvidenceFinal\\CurrentZip\\ResumeManagement\\ResumeManagement\\Models\\CandidateSkill.cs",
+              "RelativeDocumentMoniker": "ResumeManagement\\Models\\CandidateSkill.cs",
+              "ToolTip": "E:\\1274378\\Module-Angular\\EvidenceFinal\\CurrentZip\\ResumeManagement\\ResumeManagement\\Models\\CandidateSkill.cs",
+              "RelativeToolTip": "ResumeManagement\\Models\\CandidateSkill.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-10T05:22:48.74Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
