@@ -3,7 +3,7 @@
 
 ## Description
 
-This project was created to demonstrate **Angular 17** using an **ASP.NET Core API**.  The strength of this project is that it smplifies the api and frontend relationship. It also serves as a showcase of the new **Standalone** feature of Angular.
+This project was created to demonstrate **Angular 17** using an **ASP.NET Core API**.  The strength of this project is that it simplifies the api and frontend relationship. It also serves as a showcase of the new **Standalone** feature of Angular.
 
 In this project, I've created a hypothetical scenario about a software where you can:
 
